@@ -46,12 +46,7 @@ PORT=3000
 
 4. Start the application:
 ```bash
-# Development mode
 npm run start:dev
-
-# Production mode
-npm run start:prod
-```
 
 ## 🐳 Docker Setup
 
