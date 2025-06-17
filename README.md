@@ -156,8 +156,7 @@ src/
 ├── auth/           # Authentication module
 ├── users/          # User management
 ├── articulos/      # Articles module
-├── common/         # Shared utilities
-├── guards/         # Authentication guards
+├── shared/         # Shared utilities
 └── main.ts         # Application entry point
 ```
 ---
