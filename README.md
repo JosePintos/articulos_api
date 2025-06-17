@@ -47,6 +47,7 @@ PORT=3000
 4. Start the application:
 ```bash
 npm run start:dev
+```
 
 ## 🐳 Docker Setup
 
@@ -104,8 +105,19 @@ Use the JWT token in the Authorization header for subsequent requests.
 
 **Headers:**
 ```
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+Authorization: Bearer ey...
 ```
+## 📖 API Documentation
+
+Interactive API documentation is available via Swagger UI once the application is running:
+
+**Swagger UI**: `http://localhost:3000/api`
+
+The Swagger interface provides:
+- Complete API endpoint documentation
+- Request/response schemas
+- Interactive testing capabilities
+- Authentication token management
 
 ## 🔑 API Endpoints
 
